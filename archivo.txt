@@ -1,0 +1,2 @@
+Plataforma: win32 
+Memoria Total: 8377114624
