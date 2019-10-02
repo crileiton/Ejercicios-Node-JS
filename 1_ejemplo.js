@@ -3,6 +3,7 @@
 // Se utiliza modo estricto para escribir un buen código.
 'use strict';
 
+
 console.log('Hola mundo desde NodeJS');
 
 console.log(3 + 8);
@@ -23,3 +24,8 @@ setInterval(
     }
     , 1000
 );
+
+// ID de un proceso
+console.log(process.pid);
+// Título de un proceso
+console.log(process.title);
